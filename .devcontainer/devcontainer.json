@@ -1,0 +1,30 @@
+{
+  "dockerComposeFile": [
+    "../docker-compose.yml"
+  ],
+  "extensions": [
+    "davidanson.vscode-markdownlint",
+    "eamodio.gitlens",
+    "editorconfig.editorconfig",
+    "kevinrose.vsc-python-indent",
+    "mateuszchudyk.hexinspector",
+    "mhutchie.git-graph",
+    "ms-python.python",
+    "ms-python.vscode-pylance",
+    "ms-vscode-remote.remote-containers",
+    "oderwat.indent-rainbow",
+    "pkief.material-icon-theme",
+    "redhat.vscode-yaml",
+    "richie5um2.vscode-sort-json",
+    "rust-lang.rust-analyzer",
+    "serayuzgur.crates",
+    "spmeesseman.vscode-taskexplorer",
+    "streetsidesoftware.code-spell-checker",
+    "tamasfe.even-better-toml",
+    "tyriar.sort-lines",
+    "yzhang.markdown-all-in-one"
+  ],
+  "name": "eom",
+  "service": "app",
+  "workspaceFolder": "/root/code"
+}
