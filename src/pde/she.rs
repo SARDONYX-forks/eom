@@ -7,6 +7,7 @@ use super::Pair;
 use crate::traits::*;
 
 /// One-dimensional Swift-Hohenberg equation with spectral-method
+#[allow(dead_code)]
 #[derive(Clone)]
 pub struct SWE {
     n: usize,
